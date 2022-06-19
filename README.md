@@ -1,2 +1,5 @@
-# Octave-Site
-Candidate for site for Octave
+# Octave Website
+### Official website for Octave.
+
+# Authors:
+### MustafaXD (github/MustafaTheCoder)
